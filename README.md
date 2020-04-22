@@ -1,2 +1,2 @@
 # tris
-My first minigame in cpp using OOP
+Tic-Tac-Toe using oop
